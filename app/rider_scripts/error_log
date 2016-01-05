@@ -1,0 +1,69 @@
+[05-Dec-2014 05:02:03] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/history_rider_page.php on line 38
+[05-Dec-2014 05:02:06] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/history_rider_page.php on line 38
+[05-Dec-2014 05:02:18] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/history_rider_page.php on line 38
+[05-Dec-2014 05:02:22] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/history_rider_page.php on line 38
+[05-Dec-2014 05:02:52] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/history_rider_page.php on line 38
+[05-Dec-2014 05:06:45] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/history_rider_page.php on line 38
+[05-Dec-2014 05:07:10] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/history_rider_page.php on line 38
+[05-Dec-2014 05:07:46] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/history_rider_page.php on line 38
+[05-Dec-2014 08:47:47] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 62
+[05-Dec-2014 08:47:50] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 62
+[05-Dec-2014 08:47:50] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 62
+[05-Dec-2014 08:47:52] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 62
+[05-Dec-2014 08:47:59] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 62
+[05-Dec-2014 08:48:01] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 62
+[05-Dec-2014 08:48:30] PHP Parse error:  syntax error, unexpected T_VAR in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 62
+[05-Dec-2014 10:02:33] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 67
+[05-Dec-2014 10:02:39] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 67
+[05-Dec-2014 11:39:25] PHP Parse error:  syntax error, unexpected T_STRING in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 4
+[05-Dec-2014 11:42:26] PHP Parse error:  syntax error, unexpected $end in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 170
+[05-Dec-2014 11:43:35] PHP Parse error:  syntax error, unexpected '}' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 41
+[05-Dec-2014 11:43:50] PHP Parse error:  syntax error, unexpected '}' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 41
+[05-Dec-2014 11:46:10] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 42
+[05-Dec-2014 11:47:59] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 38
+[05-Dec-2014 12:07:48] PHP Parse error:  syntax error, unexpected T_ELSE in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/get_matched_drivers.php on line 69
+[05-Dec-2014 12:08:29] PHP Parse error:  syntax error, unexpected T_ELSE in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/get_matched_drivers.php on line 69
+[05-Dec-2014 12:08:34] PHP Parse error:  syntax error, unexpected T_ELSE in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/get_matched_drivers.php on line 69
+[05-Dec-2014 12:09:42] PHP Parse error:  syntax error, unexpected T_ELSE in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/get_matched_drivers.php on line 69
+[05-Dec-2014 17:47:17] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 53
+[05-Dec-2014 17:47:23] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 53
+[05-Dec-2014 17:47:35] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 53
+[09-Dec-2014 11:18:33] PHP Parse error:  syntax error, unexpected $end in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 193
+[09-Dec-2014 11:20:31] PHP Parse error:  syntax error, unexpected $end in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 193
+[09-Dec-2014 11:21:19] PHP Parse error:  syntax error, unexpected $end in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 193
+[09-Dec-2014 11:21:30] PHP Parse error:  syntax error, unexpected $end in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 193
+[09-Dec-2014 11:27:19] PHP Parse error:  syntax error, unexpected $end in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 193
+[09-Dec-2014 11:27:42] PHP Parse error:  syntax error, unexpected $end in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 193
+[09-Dec-2014 11:28:09] PHP Parse error:  syntax error, unexpected $end in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 193
+[09-Dec-2014 11:29:55] PHP Parse error:  syntax error, unexpected '=' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 109
+[09-Dec-2014 11:30:11] PHP Parse error:  syntax error, unexpected '=' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 109
+[09-Dec-2014 11:36:55] PHP Parse error:  syntax error, unexpected '=' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 109
+[09-Dec-2014 11:40:58] PHP Parse error:  syntax error, unexpected '=' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 110
+[09-Dec-2014 11:41:17] PHP Parse error:  syntax error, unexpected '=' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 110
+[09-Dec-2014 11:45:57] PHP Parse error:  syntax error, unexpected '=' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 32
+[09-Dec-2014 11:46:18] PHP Parse error:  syntax error, unexpected '=' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 32
+[09-Dec-2014 11:46:39] PHP Parse error:  syntax error, unexpected '=' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 32
+[09-Dec-2014 11:57:09] PHP Parse error:  syntax error, unexpected '{' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 37
+[09-Dec-2014 11:57:22] PHP Parse error:  syntax error, unexpected '{' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 37
+[09-Dec-2014 11:58:22] PHP Parse error:  syntax error, unexpected '{' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 37
+[09-Dec-2014 11:58:56] PHP Parse error:  syntax error, unexpected '{' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 37
+[09-Dec-2014 12:03:25] PHP Parse error:  syntax error, unexpected '{' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 37
+[09-Dec-2014 12:18:40] PHP Parse error:  syntax error, unexpected '{' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 35
+[09-Dec-2014 12:18:50] PHP Parse error:  syntax error, unexpected '{' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 35
+[09-Dec-2014 12:18:51] PHP Parse error:  syntax error, unexpected '{' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 35
+[09-Dec-2014 12:43:40] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 279
+[09-Dec-2014 12:50:23] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 279
+[09-Dec-2014 12:53:48] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 279
+[09-Dec-2014 19:58:20] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 220
+[09-Dec-2014 19:58:20] PHP Fatal error:  Call to a member function close() on a non-object in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/interested_driver.php on line 100
+[09-Dec-2014 20:04:34] PHP Fatal error:  Call to a member function close() on a non-object in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/interested_driver.php on line 100
+[09-Dec-2014 20:08:21] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 220
+[11-Dec-2014 14:10:24] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 220
+[11-Dec-2014 14:12:59] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 220
+[11-Dec-2014 14:18:10] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 220
+[11-Dec-2014 14:22:10] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/history_rider_page.php on line 57
+[11-Dec-2014 14:22:24] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/history_rider_page.php on line 57
+[11-Dec-2014 14:39:50] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 220
+[11-Dec-2014 14:41:33] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 220
+[11-Dec-2014 14:44:32] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 220
+[11-Dec-2014 15:32:59] PHP Warning:  mysqli::close() [<a href='mysqli.close'>mysqli.close</a>]: Couldn't fetch mysqli in /home5/zzengnin/public_html/kaj1125/app/rider_scripts/insert_match_rider_page.php on line 220
